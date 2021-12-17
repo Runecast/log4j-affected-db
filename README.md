@@ -16,7 +16,7 @@ Any reference to specific commercial products, processes, or services by
 service mark, trademark, manufacturer, or otherwise, does not constitute
 or imply their endorsement, recommendation, or favoring by CISA.
 
-## Official CISA Guidance & Resources ##
+## Official CISA Guidance and Resources ##
 
 - [CISA Apache Log4j Vulnerability Guidance](https://www.cisa.gov/uscert/apache-log4j-vulnerability-guidance)
 - [Statement from CISA Director Easterly on “Log4j” Vulnerability](https://www.cisa.gov/news/2021/12/11/statement-cisa-director-easterly-log4j-vulnerability).
